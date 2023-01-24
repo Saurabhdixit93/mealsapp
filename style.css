@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    width: 100%;
+    background-color:#212529;
+    color: white;
+}
+
+/* header heading section */
+#heading {
+    margin-top: 100px;
+}
+
+
+/* header navbar */
+#nav {
+  background-color: linear-gradient(rgb(0, 64, 255),rgb(178, 187, 253),) !important;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+/* header search bar section */
+#search-bar {
+    max-width: 600px;
+}
+
+#search-bar input {
+    height: 50px;
+    border-radius: 20px;
+}
+
+
+/* meal card */
+#card {
+    background-color: #ff0000;
+    padding: 10px;
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+/* meal details container */
+#meal-details{
+    width: 100%;
+    padding: 20px;
+    border-radius: 20px;
+    background-color:#FF3044 ;
+    
+}
+#meal-header{
+    width: 70%;
+    margin: auto;
+}
+#meal-thumbail img{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+#details{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-style: italic;
+}
+#meal-instruction{
+    margin: auto;
+    text-align: center;
+}
+
+
+
+
+/* favourites offcanvus */
+#favourites-body{
+    background-color:#212529 ;
+}
+
+/* COnatct Details */
+.details{
+    color: #060606;
+    font-size: 1em;
+    padding: 5px;
+    font-weight: bold;
+    font-family: Lucda sans !important;
+    text-align: center;
+
+}
+
+/* Footer Detials */
+.footer{
+    color: #060606;
+    font-size: 1em;
+    padding: 5px;
+    font-weight: bold;
+    font-family: Lucda sans !important;
+    text-align: center;
+    background-color: white;
+ }
+.fthead{
+    box-shadow: 0px 1px 0px 0px rgb(183, 150, 150);
+    margin-top: 18%;
+}
+/* Contact Style */
+.contact{
+  margin-top: 1px !important;
+    text-align:center !important;
+    justify-content: space-between;
+}
+.contact a{
+    font-family: Arial;
+    color: rgb(164, 161, 161);
+    font-size: 1em;
+    text-decoration: none;
+    margin-inline: 15px;
+    justify-content: space-between;
+}
+.contact a:hover{
+    text-decoration: none;
+}
+.contact a :focus{
+    box-shadow: rgb(38, 2, 2) -2px -2px 10px 1px inset;
+}
+
+/* Some responsiveness */
+@media screen and (min-width:320px){
+  .fthead{
+    margin-top: 39%;
+  }
+}
