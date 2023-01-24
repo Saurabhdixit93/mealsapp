@@ -47,6 +47,7 @@ Meals App displays meals from different categories and let's the users search th
    ![image](https://user-images.githubusercontent.com/86460997/214385273-866030c2-bea7-43e1-b1bc-29b0f12e20ed.png)
    
    <br/>
+   
    ## 🐦 Follow Me:
 
 > [GitHub](github.com/Saurabhdixit93)
