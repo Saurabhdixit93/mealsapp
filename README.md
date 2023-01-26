@@ -1,4 +1,8 @@
-# mealsapp
+
+<p align="center">
+        # mealsapp
+   </p>
+   
 <br/>
 
 # DEMO
