@@ -10,9 +10,11 @@
 
 <br>
 
+<p align="center">
+
  # MEAL APP
-
-
+ 
+</p>
 
 ## ⭐ Introduction
 
