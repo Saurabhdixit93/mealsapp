@@ -1,6 +1,3 @@
-<p align ="center">
-       **MEALS APP**
-   </p>
 
 <br/>
 
@@ -10,6 +7,12 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/86460997/214772410-5643039e-6008-40c1-bd75-3687bd1c1c8b.gif">
 </p>
+
+<br>
+
+ # MEAL APP
+
+
 
 ## ⭐ Introduction
 
