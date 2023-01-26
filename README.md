@@ -1,7 +1,7 @@
+<p align ="center">
+       # MEALS APP
+   </p>
 
-        <h1 align="center" > mealsapp </h1>
-
-   
 <br/>
 
 # DEMO
