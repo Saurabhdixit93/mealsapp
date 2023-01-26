@@ -1,7 +1,6 @@
 
-<p align="center">
-        <h1> mealsapp </h1>
-   </p>
+        <h1 align="center" > mealsapp </h1>
+
    
 <br/>
 
