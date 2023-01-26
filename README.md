@@ -1,5 +1,5 @@
 <p align ="center">
-       # MEALS APP
+       **MEALS APP**
    </p>
 
 <br/>
