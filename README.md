@@ -1,7 +1,7 @@
 # mealsapp
 <br/>
 
-#DEMO
+# DEMO
 <br>
 
 <p align="center">
