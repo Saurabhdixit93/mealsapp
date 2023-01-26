@@ -1,9 +1,11 @@
 # mealsapp
-
-
 <br/>
+
+#DEMO
+<br>
+
 <p align="center">
-<img src="https://user-images.githubusercontent.com/86460997/214384612-efef7626-b390-4461-b96e-15a49784db20.png">
+<img src="https://user-images.githubusercontent.com/86460997/214772410-5643039e-6008-40c1-bd75-3687bd1c1c8b.gif">
 </p>
 
 ## ⭐ Introduction
